@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name: ウマ店トップページ
+ * Plugin Name: Umaten トップページ
  * Plugin URI: https://umaten.jp
- * Description: グルメポータルサイトのトップページコンテンツを表示するプラグイン（スマホ対応版）
- * Version: 1.1.0
- * Author: Umaten Team
+ * Description: 動的なカテゴリ・タグ表示を備えたトップページ用プラグイン。北海道ナビゲーションの最適化対応。独自アクセスカウント機能搭載。スマホ表示最適化（エリア選択表示修正）。
+ * Version: 1.3.0
+ * Author: Umaten
  * Author URI: https://umaten.jp
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
